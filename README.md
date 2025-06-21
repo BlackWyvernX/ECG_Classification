@@ -10,16 +10,6 @@ This project performs beat-level classification of ECG signals extracted from th
 
 ---
 
-## Repository Structure
-
-.
-├── code/
-│ ├── data_prepros.py # ECG signal filtering, segmentation, and annotation extraction
-│ ├── load_data.py # Dataset splitting and PyTorch Dataset class
-│ ├── model.py # 1D CNN model with optional attention mechanism
-│ ├── focal_loss.py # Custom Focal Loss class
-│ └── run.py # Training loop, evaluation metrics, and result visualization
-
 ## Results
 
 | Metric        | Value    |
