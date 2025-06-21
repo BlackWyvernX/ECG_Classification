@@ -41,4 +41,3 @@ This project performs beat-level classification of ECG signals extracted from th
 - Moody GB, Mark RG. "The MIT-BIH Arrhythmia Database." PhysioNet.
 - Lin et al., "Focal Loss for Dense Object Detection", [arXiv:1708.02002](https://arxiv.org/abs/1708.02002)
 - WFDB Python Toolkit: https://github.com/MIT-LCP/wfdb-python
-- IET Review of ECG Denoising: [IET Signal Processing](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/iet-spr.2020.0104)
